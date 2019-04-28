@@ -1,0 +1,1 @@
+print("developブランチ作成完了！")
